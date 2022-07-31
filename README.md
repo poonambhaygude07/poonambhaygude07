@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @poonambhaygude07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Poonam A. Bhaygude
+An aspiring Data Scientist with good communication skills ,Having expertise and experience in areas like Machine Learning Algorithms,EDA, Tableau, Python,    etc. & seeking an position in Data Analytics to start carrier where I could perform my knowledge and training experience for the better growth of             theorganization as well as self
+- 🌱Currently working, learning and growing my skillset in coding, Machine Learning, Deep Learning and Deployment.
+- 📫Open for job in analytics, data science and python.
 
-<!---
-poonambhaygude07/poonambhaygude07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Language:Python
+Libraries:Pandas,Numpy,SciPy
+Machine Learning:Supervised, Unsupervised
+Data Visualization:Tableau Desktop, PowerBi
+Analytical Tool:MS Excel
