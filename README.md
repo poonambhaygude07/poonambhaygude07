@@ -14,4 +14,6 @@ Machine Learning:Supervised, Unsupervised
 
 Data Visualization:Tableau Desktop, PowerBi
 
+Database:MySQL
+
 Analytical Tool:MS Excel
